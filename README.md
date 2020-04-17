@@ -1,4 +1,4 @@
-# MODEL 1 : Mathematical model                                                                #
+# MODEL 3 : Agent-Based model                                                                #
 # Framework : PhD in mathematical sciences                                                    #
 # Author: Selain Kasereka                                                                     #
 # Supervisors : Emile-Franc Doungmo Goufo and Vinh Ho Tuong                                   #
