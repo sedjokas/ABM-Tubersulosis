@@ -1,7 +1,7 @@
 # MODEL 3 : Agent-Based model                                                                #
-# Framework : PhD in mathematical sciences                                                    #
-# Author: Selain Kasereka                                                                     #
-# Supervisors : Emile-Franc Doungmo Goufo and Vinh Ho Tuong                                   #
+Framework : PhD in mathematical sciences                                                    #
+Author: Selain Kasereka                                                                     #
+Supervisors : Emile-Franc Doungmo Goufo and Vinh Ho Tuong                                   #
 
 This model is an Agent-Based model for controlling the spread of tuberculosis in a city, case study of DRC (Kinshasa).
 
